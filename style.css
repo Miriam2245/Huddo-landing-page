@@ -62,3 +62,6 @@ p{
 .forth-section{
     margin-top: 20px;
 }
+.bg-section-top-desktop-2{
+    transform: rotateX('180deg');
+}
